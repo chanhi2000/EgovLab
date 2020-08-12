@@ -1,4 +1,5 @@
 *.class
+*.log
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp
@@ -94,7 +95,6 @@ fabric.properties
 
 ## Mac
 .DS_Store
-
 
 ## 소스 병합
 *.bak
